@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+  src: url('../icon2/iconfont.eot?t=1577425871863'); /* IE9 */
+  src: url('../icon2/iconfont.eot?t=1577425871863#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAOEAAsAAAAAB5AAAAM4AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqCdIJXATYCJAMMCwgABCAFhG0HPBujBsgekqQbBMWxDcABKJRC8fDffrT7ZubLmqfdpNoVyKKJQzJPNCoJr6RK6eol/CE7vfwVxAhxhDCRl0pTPBXmFrEa4Um4fr+2pxIN2Rn6WbyEWVJ58/5+sb0vFipkIpGWvFQaPnHv+C/x1aMwl7GWz40L0ywOKLCxJgUUaIF0CWrD2AUtcT+BXjOs4Y6dOD6DqsIcFohb1zUB1YxDaSgOrVBXzC1LuGdAWpueYHTA0+Dz8R9sR0tSZeZBJ6/sKLD+y/zaHT7+R1IyAmg6H9giMlYBhbhUGbioEMVWQb2qodicXStCmir43xEoNF1t/eGRBFEzC/vBItKni1I6isToDlVXvVcGNVo8BN4A0zI+NKOeUprUkYfrP3rVrXPxy4/pFsaJRPECQSzi+8e+Umr5eVlKBscJhXUEgpb9TKKRdfm2HXTGkxXVe6hady9ERFDQ/ToP9ZLf1228Jmpn5++7aKd7D78f20PGk7oJiFgkzvCaOFEN/k65/q2ex/DGuYLjcIx7NgQHoSeNXslvrbJL5/brY9kSwuaWYBfWOr3WCluw6WWsU7ZregkEbIr0zlC4vuJH6asBz17Kx5fis86zooHyN8M0u/Gk+6TIVTiXr+wGyiY9DayjBznZhxF66n/Kf9ISmzIVdbpWA8ss/TBwGaA7hifQH3SoNGb0k77j64sWO13V+7VVLOCd1Q4rUHXLB1qJzspfUlbqQfdXGrnadOai6DUqjGR2UvmGZVDGjX5EKYy6Gm6ZuO1EaE0kSBrTyFqzRGFWUemzi1prD71WhC3uM6ZUQZQeLGsDCMPmkQx6i2wYgyjMJSqTnlAbjoxe50NzzT7zcb036AGJkBTMyrBQsqva7rAeFp+QFtnCT6sD9oL8wAiig619PrlHLvlTTCiLtVl5qGKezw6GgsPIthmLfTZJhqOCMFzM7ezyqp40ymYH6o74iBAiCpQlgwpJzKV6zUP1wvtPEE3EJvgNNVXJC8QXMNpHDmzZdyD2DG6nmlt5pExMM1MupEJ5fMyBQoGP2FaMoeLqXiYihUYKBkQW5uxQvbyuhtHyJuf9tkAv85ocKXIUzcO7URDxVO7q3SiJpE4A') format('woff2'),
+  url('../icon2/iconfont.woff?t=1577425871863') format('woff'),
+  url('../icon2/iconfont.ttf?t=1577425871863') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('../icon2/iconfont.svg?t=1577425871863#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-sousuo1:before {
+  content: "\e638";
+}
+
+.icon-gouwuche:before {
+  content: "\e621";
+}
+
